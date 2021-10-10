@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html,body{
+    height: 100%;
+}
+
+.app{
+    min-height: 100%;
+}
+
+
+
+header{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(172, 196, 218);
+}
+main{
+    width: 100%;
+    background-color: rgb(161, 207, 192);
+    height: 522px;
+}
+
+.block{
+    height: 100px;
+}
+
+footer{
+    height: 100px;
+    margin-top: -100px;
+    /* cкрывет обтекания */
+    clear: both; 
+    background-color: rgb(202, 166, 166);
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
+
+

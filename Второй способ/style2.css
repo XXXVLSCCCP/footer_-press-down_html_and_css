@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.app{
+    background-color: rgb(178, 224, 224);
+    min-height: calc(100vh - 100px);
+}
+
+footer{
+    background-color: rgb(194, 206, 229);
+    height: 100px;
+    width: 100%;
+}
+
+header{
+    background-color: rgb(214, 152, 164);
+    height: 100px;
+    width: 100%;
+}
